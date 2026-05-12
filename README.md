@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dennis Wanjohi
+# 👋 Hi, I'm Dennis
 
 💻 Software Developer | 🧪 QA Engineer | 🌐 Full-Stack Enthusiast  
 
